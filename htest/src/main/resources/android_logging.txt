@@ -1,0 +1,8 @@
+all_counts=select count(*) from prefix_ll_logs
+counts_at=select count(*) from prefix_ll_logs_at
+counts_de=select count(*) from prefix_ll_logs_de
+counts_en=select count(*) from prefix_ll_logs_en
+counts_gr=select count(*) from prefix_ll_logs_gr
+counts_nl=select count(*) from prefix_ll_logs_nl
+counts_uk=select count(*) from prefix_ll_logs_uk
+ 
